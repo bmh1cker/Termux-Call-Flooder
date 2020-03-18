@@ -13,3 +13,14 @@ https://www.youtube.com/channel/UCBFF10bY3xpXEgbUHCUppUQ
 
 # Install Guide
 How to install This project.
+
+* **install on Termux android**
+
+```
+$pkg install node
+$git clone https://github.com/bmh1cker/Termux-Call-Flooder
+$cd Termux-Call-Flooder
+$chmod +x *
+$npm install
+$node bot.js
+```

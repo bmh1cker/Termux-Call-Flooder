@@ -7,7 +7,7 @@ https://www.youtube.com/channel/UCBFF10bY3xpXEgbUHCUppUQ
 
 <br>
 <p align="center">
-<img src="https://github.com/bmh1cker/Termux-Call-Flooder/blob/master/src/Termux20%Call20%Flooder.png"/>
+<img src="https://github.com/bmh1cker/Termux-Call-Flooder/blob/master/src/Termux%20Call%20Flooder.jpg"/>
 </p>
 <br><br>
 

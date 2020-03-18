@@ -24,3 +24,22 @@ $chmod +x *
 $npm install
 $node bot.js
 ```
+
+# Twilio Setup
+How to Setup Twilio on This project.
+
+* **Twilio Account Created**
+
+```
+Twilio Website :- https://www.twilio.com/
+Created on Account Twilio
+filling this Form on Termux use this 'nano' to modify bot.js
+        Twilio 
+accountId = 'your acount sid here'
+accountToken = 'your account token here'
+
+Outher modify-
+    url: enter you voicemail url
+    to: +<the spammers number>
+    from: +1<the twilio phone number you purchased>
+```

@@ -14,6 +14,12 @@ https://www.youtube.com/channel/UCBFF10bY3xpXEgbUHCUppUQ
 # Install Guide
 How to install This project.
 
+* **install on Kali**
+
+```
+You Can Use this Code Kali Linux.
+```
+
 * **install on Termux android**
 
 ```

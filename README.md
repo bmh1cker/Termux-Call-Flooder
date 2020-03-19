@@ -17,11 +17,13 @@ How to install This project.
 * **install on Termux android**
 
 ```
+$pkg install nano
 $pkg install node
 $pip install twilio
 $git clone https://github.com/bmh1cker/Termux-Call-Flooder
 $cd Termux-Call-Flooder
 $chmod +x *
+$nano bot.js (Setup Twilio Account on Termux)(You Do Not Modify do not warning that code)
 $npm install
 $node bot.js
 ```

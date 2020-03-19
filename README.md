@@ -64,7 +64,7 @@ Outher modify-
 </p>
 <br><br>
 
-3> This problem was Twilio Account Number Problem, You can add the "To" Number(You create Twilio Account verify Number)
+3> This problem was Twilio Account Number Problem, You can add the "To" Number(You create Twilio Account verify Number) add that Number.
 
 <br>
 <p align="center">

@@ -48,11 +48,19 @@ Outher modify-
 ```
 
 # Warking Problem
-You Do not install ($npm install) not warning this code, You problem this Face. 
+1> You Do not install ($npm install) not warking this code, You problem this Face. 
 
 <br>
 <p align="center">
 <img src="https://github.com/bmh1cker/Termux-Call-Flooder/blob/master/src/ProblemDon'tWark.jpg"/>
+</p>
+<br><br>
+
+2> You Don't setup Twilio Account ($nano bot.js) not warking this code, You problem this Face.
+
+<br>
+<p align="center">
+<img src="https://github.com/bmh1cker/Termux-Call-Flooder/blob/master/src/TwilioSetup.jpg"/>
 </p>
 <br><br>
 

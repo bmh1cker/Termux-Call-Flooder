@@ -24,7 +24,7 @@ You Can Use this Code Kali Linux.
 
 ```
 $pkg install nano
-$pkg install node
+$pkg install nodejs
 $pip install twilio
 $git clone https://github.com/bmh1cker/Termux-Call-Flooder
 $cd Termux-Call-Flooder

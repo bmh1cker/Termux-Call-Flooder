@@ -47,6 +47,15 @@ Outher modify-
     from: +1<the twilio phone number you purchased>
 ```
 
+# Warking Problem
+You Do not install ($npm install) not warning this code, You problem this Face. 
+
+<br>
+<p align="center">
+<img src="https://github.com/bmh1cker/Termux-Call-Flooder/blob/master/src/Termux%20Call%20Flooder.jpg"/>
+</p>
+<br><br>
+
 # Warn
 <br>
 

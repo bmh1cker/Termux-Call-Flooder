@@ -3,12 +3,7 @@ This Project is for TERMUX Call Flooder
 You Installed this Tool Can help You Contacted My YouTube Channel.
 
 # Seyup Video Call Flooder
-
-<br>
-<p align="center">
-<img src="https://youtu.be/ysPXLvL1xVU"/>
-</p>
-<br><br>
+https://youtu.be/ysPXLvL1xVU
 
 # My YouTube Channel Link:-
 https://www.youtube.com/channel/UCBFF10bY3xpXEgbUHCUppUQ

@@ -2,9 +2,9 @@
 This Project is for TERMUX Call Flooder
 You Installed this Tool Can help You Contacted My YouTube Channel.
 
-[![Build Status](https://img.shields.io/github/stars/bmh1cker/m-wiz.svg)](https://github.com/bmh1cker/Termux-Call-Flooder)
-[![Build Status](https://img.shields.io/github/forks/bmh1cker/m-wiz.svg)](https://github.com/bmh1cker/Termux-Call-Flooder)
-[![License: MIT](https://img.shields.io/github/license/bmh1cker/m-wiz.svg)](https://github.com/bmh1cker/Termux-Call-Flooder)
+[![Build Status](https://img.shields.io/github/stars/bmh1cker)](https://github.com/bmh1cker/Termux-Call-Flooder)
+[![Build Status](https://img.shields.io/github/forks/bmh1cker)](https://github.com/bmh1cker/Termux-Call-Flooder)
+[![License: MIT](https://img.shields.io/github/license/bmh1cker)](https://github.com/bmh1cker/Termux-Call-Flooder)
 
 # Setup Video Call Flooder
 https://youtu.be/ysPXLvL1xVU

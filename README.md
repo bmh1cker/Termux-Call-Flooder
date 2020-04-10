@@ -5,9 +5,6 @@ You Installed this Tool Can help You Contacted My YouTube Channel.
 [![Build Status](https://img.shields.io/github/stars/bmh1cker/m-wiz.svg)](https://github.com/bmh1cker/Termux-Call-Flooder)
 [![Build Status](https://img.shields.io/github/forks/bmh1cker/m-wiz.svg)](https://github.com/bmh1cker/Termux-Call-Flooder)
 [![License: MIT](https://img.shields.io/github/license/bmh1cker/m-wiz.svg)](https://github.com/bmh1cker/Termux-Call-Flooder)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#hacklock)
-[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # Setup Video Call Flooder
 https://youtu.be/ysPXLvL1xVU
